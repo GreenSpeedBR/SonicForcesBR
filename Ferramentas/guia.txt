@@ -1,0 +1,46 @@
+\n - quebra de linha
+
+c - cutscene
+ig - in-game
+
+
+
+ev0010c - cutscene 1
+ev0120c - cutscene 2
+ev0125n - cutscene 2, texto do narrador
+ev0130c - cutscene 3
+ev0140c - cutscene 4, pós criação do avatar
+ev0310c - cutscene 5, chegada do classic
+ev0330c - cutscene 6
+ev0430c - cutscene 7
+ev0440c - cutscene 8
+ev0510c - cutscene 9
+ev0720c - cutscene 10
+ev0730c - cutscene 11
+ev0820c - cutscene 12
+ev0840c - cutscene 13
+ev1120c - cutscene 14
+ev1220c - cutscene 15
+ev1330c - cutscene 16
+ev1340c - cutscene 17
+ev1530c - cutscene 18
+ev1830c - cutscene 19
+ev2010c - cutscene 20
+ev2030c - cutscene 21
+ev2120c - cutscene 22
+ev2140c - cutscene 23
+ev2220c - cutscene 24
+ev2230c / ev2240c - cutscene 25
+ev2420c - cutscene 26
+ev2420c - cutscene 27 (algumas das falas do Sonic fazem parte do ev2440c)
+ev2440c - cutscene 28
+ev2510c - cutscene 29
+
+
+
+ev0110ig - ato 1
+ev0220ig - ato 2
+ev0320ig - ato 3
+
+
+ev0210w - conversa 1
