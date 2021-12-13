@@ -32,9 +32,8 @@ ev2140c - cutscene 23
 ev2220c - cutscene 24
 ev2230c / ev2240c - cutscene 25
 ev2420c - cutscene 26
-ev2420c - cutscene 27 (algumas das falas do Sonic fazem parte do ev2440c)
-ev2440c - cutscene 28
-ev2510c - cutscene 29
+ev2440c - cutscene 27
+ev2510c - cutscene 28
 
 
 
