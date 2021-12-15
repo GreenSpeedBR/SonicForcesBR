@@ -1,10 +1,4 @@
-\n - quebra de linha
-
-c - cutscene
-ig - in-game
-
-
-
+Cutscenes:
 ev0010c - cutscene 1
 ev0120c - cutscene 2
 ev0125n - cutscene 2, texto do narrador
@@ -35,11 +29,33 @@ ev2420c - cutscene 26
 ev2440c - cutscene 27
 ev2510c - cutscene 28
 
+In-game:
+Stage 1 => 0110ig
+Stage 2 => 0220ig
+Stage 3 => 0320ig
+Stage 4 => 0430ig
+Stage 5 => 0450ig
+Stage 6 => 0520ig
+Stage 7 => 0620ig
+Stage 8 => 0740ig
+Stage 9 => 0750ig
+Stage 10 => 0850ig
+Stage 11 => 0860ig
+Stage 12 => 0930ig
+Stage 13 => 1020ig
+Stage 14 => 1130ig
+Stage 15 => 1240ig
+Stage 16 => 1320ig
+Stage 17 => 1350ig
+Stage 18 => 1430ig (algumas falas estão em 9000ig)
+Stage 19 => 1520ig
+Stage 20 => 1620ig
+Stage 21 => 1720ig
 
+Epsódio Shadow
+Stage 1 => 8020ig
+Stage 2 => 8040ig
+Stage 3 => 8060ig
 
-ev0110ig - ato 1
-ev0220ig - ato 2
-ev0320ig - ato 3
-
-
+World map:
 ev0210w - conversa 1
