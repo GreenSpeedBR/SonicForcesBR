@@ -1,7 +1,6 @@
-add mod.ini
 add disk/wars_patch/text/text_caption_es.pac
 add disk/wars_patch/text/text_common_es.pac
-add disk/wars_patch/text/text_customize_es.pac
+delete disk/wars_patch/text/text_customize_es.pac
 add disk/wars_patch/text/text_dlc001_es.pac
 add disk/wars_patch/text/text_dlc002_es.pac
 add disk/wars_patch/text/text_dlc003_es.pac
@@ -12,3 +11,4 @@ add disk/wars_patch/text/text_gameclear_es.pac
 add disk/wars_patch/text/text_hint_es.pac
 add disk/wars_patch/text/text_menu_es.pac
 add disk/wars_patch/text/text_title_es.pac
+add mod.ini
