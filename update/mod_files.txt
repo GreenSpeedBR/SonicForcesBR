@@ -8,6 +8,7 @@ add disk/wars_patch/text/text_dlc003_es.pac
 add disk/wars_patch/text/text_dlc004_es.pac
 add disk/wars_patch/text/text_dlc005_es.pac
 add disk/wars_patch/text/text_dlc006_es.pac
+add disk/wars_patch/text/text_gameclear_es.pac
 add disk/wars_patch/text/text_hint_es.pac
 add disk/wars_patch/text/text_menu_es.pac
 add disk/wars_patch/text/text_title_es.pac
