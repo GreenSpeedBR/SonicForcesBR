@@ -61,3 +61,5 @@ World map:
 ev0210w - conversa 1
 ev0410w - conversa 2
 ev0610w - conversa 3
+ev0710w - conversa 4
+ev0810w - conversa 5
