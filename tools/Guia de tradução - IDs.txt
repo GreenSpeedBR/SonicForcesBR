@@ -59,3 +59,4 @@ Stage 3 => 8060ig
 
 World map:
 ev0210w - conversa 1
+ev0410w - conversa 2
