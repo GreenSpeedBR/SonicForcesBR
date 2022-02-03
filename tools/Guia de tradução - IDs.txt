@@ -69,3 +69,12 @@ ev1010w - conversa 8
 ev1110w - conversa 9
 ev1210w - conversa 10
 ev1230w - conversa 11
+ev1310w - conversa 12
+ev1410w - conversa 13
+ev1420w - conversa 14
+ev1510w - conversa 15
+ev1610w - conversa 16
+ev1710w - conversa 17
+ev1810w - conversa 18
+ev1910w - conversa 19
+ev2110w - conversa 20
