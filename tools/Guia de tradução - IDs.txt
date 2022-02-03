@@ -63,3 +63,9 @@ ev0410w - conversa 2
 ev0610w - conversa 3
 ev0710w - conversa 4
 ev0810w - conversa 5
+ev0910w - conversa 6
+ev0920w - conversa 7
+ev1010w - conversa 8
+ev1110w - conversa 9
+ev1210w - conversa 10
+ev1230w - conversa 11
