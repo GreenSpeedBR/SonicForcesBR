@@ -51,6 +51,7 @@ Stage 18 => 1430ig (algumas falas estão em 9000ig)
 Stage 19 => 1520ig
 Stage 20 => 1620ig
 Stage 21 => 1720ig
+Stage 22 => 1820ig
 
 Epsódio Shadow
 Stage 1 => 8020ig
