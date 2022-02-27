@@ -59,6 +59,7 @@ Stage 26 => 2210ig
 Stage 27 => 2250ig
 Stage 28 => 2310ig
 Stage 29 => 2410ig
+Stage 30 => 2450ig
 
 Epsódio Shadow
 Stage 1 => 8020ig
