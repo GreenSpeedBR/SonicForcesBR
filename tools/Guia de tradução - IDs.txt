@@ -54,6 +54,7 @@ Stage 21 => 1720ig
 Stage 22 => 1820ig
 Stage 23 => 1920ig
 Stage 24 => 2020ig
+Stage 25 => 2130ig
 
 Epsódio Shadow
 Stage 1 => 8020ig
