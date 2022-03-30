@@ -1,3 +1,7 @@
+## Sonic Forces - Brazilian Localization: Versão 1.0
+FINALMENTE! Aqui está a 1.0 da tradução!
+Em relação às versões passadas, essa versão contém a maior parte dos textos traduzidos.
+
 ## Sonic Forces - Brazilian Localization: CREATIVE BUILD
 A build atual foi feita para os criadores de conteúdo testarem o mod e dar feedback.
 
