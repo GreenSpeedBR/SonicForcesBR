@@ -1,3 +1,6 @@
+## Sonic Forces - Brazilian Localization: Versão 1.2
+- Hotfixes nos textos do menu, das legendas do jogo base e da DLC do Shadow
+
 ## Sonic Forces - Brazilian Localization: Versão 1.1
 - Corrigido erro em texto nas configurações
 - "Missão" agora é "Missões" na tela de missões
