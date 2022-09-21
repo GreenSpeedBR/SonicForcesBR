@@ -1,5 +1,8 @@
+## Sonic Forces - Brazilian Localization: Versão 1.3
+- Atualizações "quality of life" nas traduções das cutscenes, dos textos gerais e do menu.
+
 ## Sonic Forces - Brazilian Localization: Versão 1.2
-- Hotfixes nos textos do menu, das legendas do jogo base e da DLC do Shadow
+- Hotfixes nos textos do menu, das legendas do jogo base e da DLC do Shadow.
 
 ## Sonic Forces - Brazilian Localization: Versão 1.1
 - Corrigido erro em texto nas configurações

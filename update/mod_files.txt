@@ -1,4 +1,4 @@
-add disk/wars_patch/text/text_menu_es.pac
-add disk/wars_patch/text/text_dlc001_es.pac
 add disk/wars_patch/text/text_caption_es.pac
+add disk/wars_patch/text/text_common_es.pac
+add disk/wars_patch/text/text_menu_es.pac
 add mod.ini
